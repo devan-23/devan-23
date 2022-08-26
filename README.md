@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devan-23
+- 👋 Hi, I’m @devanarayanan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on tech related ventures.
